@@ -1,27 +1,35 @@
-# Hi there, I'm Yashada!🧸
+# Hi there, I'm Yashada 
 
 ### ⭐ About Me
-I am a **Computer Science and Engineering** student dedicated to building secure and scalable applications. I enjoy solving complex problems and exploring the intersection of development and security.
+I'm a computer science student, but honestly?
+I treat Tech more like a playground than a profession
+
+I like trying things out, breaking them, fixing them (sometimes),
+and then jumping to the next shiny tool I find
 
 ---
 
-### ⭐ Areas of Interest
-* **Cybersecurity Enthusiast:** Passionate about ethical hacking, network analysis, and system defense.
-* **Full-Stack Development:** Building robust web applications using modern frameworks.
+### 🔍 what I'm usually up to
+* Poking around cybersecurity stuff just out of curiosity
+* Building random full-stack things when an idea clicks
+* Experimenting with tools I probably don’t fully understand yet
+* Learning by doing (and messing up a lot)
 
 ---
 
-### 💻 Tech Stack
-* **Languages:** Python, JavaScript, Java, C++
-* **Frontend:** React.js, HTML5, CSS3
-* **Backend:** Flask, Node.js
-* **Tools & Security:** Kali Linux, Nmap, Wireshark, AWS, Git
+### 🧸Things I’ve played with
+
+* languages: python, javascript, java, c++
+* frontend: react, html, css
+* backend: flask, node.js
+* tools: kali linux, nmap, wireshark, aws, git , n8n
 
 ---
 
-### 📊 Key Project
-* **Audit_Flow:** A financial and inventory management system built with React, Flask, and AWS S3.
+### 🧪 Things I built
+* audit_flow → a finance + inventory system (react + flask + aws)
+* Tiny Tiles → a pixel art generator (felt cute, made it for fun)
 
 ---
 
-### See you around :)
+see you around :)
