@@ -27,7 +27,7 @@ and then jumping to the next shiny tool I find
 ---
 
 ### 🧪 Things I built
-* audit_flow → a finance + inventory system (react + flask + aws)
+* Contributed in: Audit flow → a finance + inventory system (react + flask + aws)
 * Tiny Tiles → a pixel art generator (felt cute, made it for fun)
 
 ---
